@@ -1,10 +1,5 @@
 # Hello
-<<<<<<< HEAD
 <br><br>
-## Discription:
-=======
-</br>
-</br>
 ## Discription
 This is most basic and useless script to manage ascii file that contain single word list.
 <br><br>
